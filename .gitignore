@@ -11,3 +11,8 @@ node_modules
 database.sqlite
 
 .env
+
+.vscode
+.dockerignore
+
+Dockerfile
