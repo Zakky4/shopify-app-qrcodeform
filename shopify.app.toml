@@ -3,7 +3,7 @@
 client_id = "8bbb3b2c762b2b5126a1d1fab7e82734"
 name = "remix-tutorial"
 handle = "remix-tutorial-15"
-application_url = "https://ecuador-stamps-seniors-situated.trycloudflare.com"
+application_url = "https://pursuit-ruth-badge-proudly.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://ecuador-stamps-seniors-situated.trycloudflare.com/auth/callback",
-  "https://ecuador-stamps-seniors-situated.trycloudflare.com/auth/shopify/callback",
-  "https://ecuador-stamps-seniors-situated.trycloudflare.com/api/auth/callback"
+  "https://pursuit-ruth-badge-proudly.trycloudflare.com/auth/callback",
+  "https://pursuit-ruth-badge-proudly.trycloudflare.com/auth/shopify/callback",
+  "https://pursuit-ruth-badge-proudly.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
